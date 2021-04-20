@@ -2,6 +2,8 @@
 
 * ['Team Profile Generator GitHub'](https://github.com/alecfirstcode2021/team-profile-generator)
 
+* ['Demo Image'](https://github.com/alecfirstcode2021/team-profile-generator/blob/main/README_img/screenshot_01.PNG)
+
  Create Team Profile directly.
 
 ## Table of Contents
