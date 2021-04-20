@@ -1,0 +1,29 @@
+
+body {
+    margin-bottom: 80px; 
+    background-color: #f1f1f1;    
+}
+
+.employee-card {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 10px 15px #6e6e6e;
+    background-color: #ebebeb;
+    text-align: left;
+}
+
+.card-header {
+    color: #435560;
+    border-radius: 10px;
+    background-color:  #d5ecc2;  
+}
+
+.card-body {
+    font-weight: 500;
+    width: 350px;
+}
+
+.fas {
+    color: #FF8303;
+}
+
